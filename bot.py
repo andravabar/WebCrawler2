@@ -6,28 +6,34 @@ page = requests.get(URL)
 
 soup = BeautifulSoup(page.content, "html.parser")
 
-results = soup.find_all("table", class_="data")
+results = soup.find_all("tr", class_="alt")
 
 # positive = results.find_all('td')
 # print(positive)
 # print(results)
 # for element in elements:
 #     print(element)
-thisList = []
+thisDict= {}
 
-for element in results:
-    symbolList = element.find("a", class_="stock-symbol")
-    thisList.append(element)
-    # thisDict.update({})
-    # positiveChangeList = element.find_all('td', class_="positive")
-    # for value in positiveChangeList:
-    #     print(value.text.strip())
-    # print(positive.text.strip())
-    # print()
-    # for symbols in symbolList:
-    #     print(symbols.text)
-    # print(compName.text)
+def getStockChange(changeList):
+    for value in changeList:
+        return value.text.strip()
 
-# print(results)
+for elements in results:
+    # print(elements)
+    stockSymbol = elements.find('a', class_="stock-symbol")
+    stockTitle = elements.find('a', class_="stock-title")
+    # print(stockTitle.text)
+    # print(stockSymbol.text)
 
-print(thisList[1])
+
+    positiveChangeList = elements.find_all('td', class_="positive")
+    negativeChangeList = elements.find_all('td', class_="negative")
+    thisDict.update({
+        stockSymbol.text: {
+            "Company Name": stockTitle.text,
+            "positive" : getStockChange(positiveChangeList),
+            "negative" : getStockChange(negativeChangeList)
+        }})
+
+print(thisDict)
