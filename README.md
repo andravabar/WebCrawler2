@@ -5,10 +5,10 @@
 Meie tiim **"WebCrawler2"** koosnes 3 erineva kursuse õpilastest: TAK-19, TA-20 ja TA-21
 
 **Tiimiliikmed TAK-19:** 
-Jasper Tambur / Joonas Hendrik Peet / Joonas Püüding
+Erki Leemet / Karl Jäme
 
 **Tiimiliikmed TA-20:**
-Timo Pirn / Andra Vabar / Mattias A. Kaerma 
+Rainis-Ross Tiirik / Andra Vabar 
 
 ## Kust me pärit oleme?
 Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkvara arenduse erialal.
