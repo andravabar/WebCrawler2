@@ -31,7 +31,7 @@ for elements in results:
     negativeChangeList = elements.find_all('td', class_="negative")
     thisDict.update({
         stockSymbol.text: {
-            "Company Name": stockTitle.text,
+            # "Company Name": stockTitle.text,
             "positive" : getStockChange(positiveChangeList),
             "negative" : getStockChange(negativeChangeList)
         }})
