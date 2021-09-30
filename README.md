@@ -2,7 +2,7 @@
 
 #### 2021∕22 projekt nr 1 "Web Crawler" toimus ajavahemikul 30.09 - 01.10.2021.
 
-Meie tiim **"P4-T1"** koosnes 2 erineva kursuse õpilastest: TAK-19 ja TA-20
+Meie tiim **"WebCrawler2"** koosnes 3 erineva kursuse õpilastest: TAK-19, TA-20 ja TA-21
 
 **Tiimiliikmed TAK-19:** 
 Jasper Tambur / Joonas Hendrik Peet / Joonas Püüding
