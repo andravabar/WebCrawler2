@@ -17,7 +17,7 @@ Riivo Matt / Liisi Kuusküll / Olev Kuris
 Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkvara arenduse erialal.
 
 ## Projekti idee ja eesmärk
-* PProjekti eesmärk on ehitada web-crawler, mis jälgib aktsia hinna muutusi protsentides.Kui hind tõuseb või langeb,siis saadab teavituse meili peale.
+* Projekti eesmärk on ehitada web-crawler, mis jälgib aktsia hinna muutusi protsentides.Kui hind tõuseb või langeb,siis saadab teavituse meili peale.
 
 * Projekti kõrval-eesmärk oli saada kogemus, kuidas ühte tarkvaraprojekti teha.
 
@@ -34,14 +34,12 @@ Infotahvlile info kuvamiseks valisime kaks erinevat lähenemisviisi:
 - Github
 - VS Code
 - Figma [Prototüüp](https://www.figma.com/file/yeeu0HdbWkd48XS9X1wVBP/Untitled?node-id=0%3A1)
-- Zone [server](https://tak19pyyding.itmajakas.ee/ProjektPlakat-main1)
-- Google Spreadsheets [Admin-liides](https://docs.google.com/spreadsheets/d/1MkkhxU-MgcPDz5-vPpBQibAl9gr4p1DRNlPdtik7HJs/edit?copiedFromTrash#gid=0)
+
 
 
 ## Küsimused projekti kohta
  - Üks pehme oskus, mida õppisin ja endas arendasin
  - Üks tehniline oskus, mida õppisin ja endas arendasin
 
-**Andra Vabar:**
-1. Seekordsel projektinädalal sai kõvasti praktiseeritud distantsilt tiimitöö tegemist, mis ühest küljest tundub juba kui tavaline nähtus (arvestades, kui pikalt on distantsõpe olnud), teisalt oli projekti algusest lõpuni viimine üle veebi täiesti uutmoodi kogemus. Kuna meil ei olnud otseselt tiimijuhti, siis huvitav oli näha seda harmoonilist tiimitööd, mis kohati küll lonkas, arvestades tiimiliikmete erinevaid vanuseid/oskuseid/isikuomapärasid, aga lõppkokkuvõttes jõudsime siiski lahenduseni.
-2. Minu jaoks oli täiesti uus kogemus paariskoodimine, mille käigus sain esmakordselt kaasa mõelda ning reaalselt koodida JavaScriptis.
+**Eesnimi Perenimi:**
+
