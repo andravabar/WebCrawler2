@@ -10,6 +10,9 @@ Erki Leemet / Karl Jäme
 **Tiimiliikmed TA-20:**
 Rainis-Ross Tiirik / Andra Vabar 
 
+**Tiimiliikmed TA-21:**
+Riivo Matt / Liisi Kuusküll / Olev Kuris
+
 ## Kust me pärit oleme?
 Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkvara arenduse erialal.
 
