@@ -30,4 +30,4 @@ for element in results:
 
 # print(results)
 
-print(thisList[1])
+#print(thisList[1])
