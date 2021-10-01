@@ -17,10 +17,7 @@ thisDict= {}
 
 def getStockChange(changeList):
     for value in changeList:
-        if value.text.strip() is None:
-            return "1"
-        else:
-            return value.text.strip()
+         return value.text.strip()
 
 
 for elements in results:
