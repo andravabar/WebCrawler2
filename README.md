@@ -23,7 +23,8 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 Esimese projektipäeva esimesel tunnil tutvusime üksteisega, kuna päris mitmele oli see elu esimene projekt Ametikoolis ning inimesed veel tundmatud. Kui ülevaade inimeste oskustest ja teadmistest olemas, arutasime millisest teemast võiks töö teha. 
 Enamuse heakskiidul otsustasime teha webcrawleri, mis jälgiks Balti börsil noteeritud väärtpaberite hindasid. Esmane idee oli võtta valikusse ainult teatud aktsiad, mille hinda jälgida ning kui soovitud aktsia hind satub kasutajale sobivale tasemele (kas aktsia müümiseks või ostmiseks), siis programm saadaks välja vastavasisulise e-maili. Üsna peagi saime aru, et otstarbekam oleks jälgida mitte üksikute aktsiate hinna kõikumisi, vaid hoopis terve börsi lõikes hinna muutust protsentides.
 Esimese prototüübi joonistasime üles interaktiivsel tahvlil, kuhu püüdsime teha täisversiooni kasutajaliidesest.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/andravabar/WebCrawler2/blob/main/IMG_4675.jpg)
+![alt text](https://github.com/andravabar/WebCrawler2/blob/main/IMG_4675.jpg)
 
 Prototüübi valmimisel me tegime enda grupile suhtlemiskanalid(slack,teams) ja github-i.Githubis tegime projekti ja sinna lisasime issuesid.Siis hakkasime pihta figmaga ja koodirkirjutamisega.Tegime endale figmas uue teami ja projekti.Seejärel kutsusime need,kes koodi ei kirjutanud figmat tegema.
 
