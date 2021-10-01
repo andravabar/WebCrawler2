@@ -45,6 +45,7 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
  - panna meeskond tööle nii, et kõik meeskonnaliikmed tunneksid, et nad on vajalikud ja kasulikud. Lisaks olin õpetajarollis, et anda esmakursuslastele võimalikult arusaadavalt ja lihtsalt sissejuhatus erinevatest kanalitest/toolidest, mida me siin koolis kasutame. Püüdsin ennast tagasi hoida, et mitte oma ideid ja nägemusi peale suruda, vaid kuulata ja usaldada oma tiimiliikmeid ja minna kaasa nende flow'ga.
  - paarikoodimine, sh clone/push/pull/stash meeldetuletus
  - suuers pildis ma ei leia, et oleksin midagi muud saanud tiimi heaks teha, aga oleksin tahtnud rohkem tegeleda koodimisega, kui administratiivsete argimuredega.
+
 **Erki Leemet:**
  - suhtlemine, tiimitöö
  - web scrapemine
