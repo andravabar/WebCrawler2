@@ -20,7 +20,10 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 * Projekti eesmärk on ehitada web-crawler, mis jälgib aktsia hinna muutusi protsentides. Kui hind tõuseb või langeb kasutaja poolt sätestatud %-lävendi, siis programm saadab teavituse e-maili peale.
 
 ## Töökäik
+* Esimesel projektipäevl  tutvusime üksteisega.Pärast seda me arutasime millisest teemast võiks töö teha.Lõpuks otsustasime teha webcrawleri,mis jälgiks aktsiahindu ja et see saadaks alerti meili peale sellel juhul kui hind muutub.Algul oli plaan järgida hinnamuutust eurodes aga päeva lõpuks nõustusime,et jälgiksime hinnamuutust protsentides.
+Kui meil oli suund olemas me hakkasime tegema prototüüpi ja see sai tehtud tahvli peal.Prototüübi valmimisel me tegime enda grupile suhtlemiskanalid(slack,teams) ja github-i.Githubis tegime projekti ja sinna lisasime issuesid.Siis hakkasime pihta figmaga ja koodirkirjutamisega.Tegime endale figmas uue teami ja projekti.Seejärel kutsusime need,kes koodi ei kirjutanud figmat tegema.
 
+Teisel päeval täiendasime figmat ja täitsime readme-d
 
 
 ## Suhtluskanalid: 
