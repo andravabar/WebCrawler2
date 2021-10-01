@@ -33,7 +33,7 @@ Kui protüüp "paberil" oli valmis, tegime oma tiimile erinevad suhtluskanalid (
 
 Pärast seda jagasime tiimisiseselt ülesanded laiali, kes mille kallal tööle saaks asuda. Paralleelselt hakkasime tööle koodi kirjutamisega ning Figmas kasutajaliidese disainimisega. Mõlema tööga jätkasime päeva lõpuni ning täiendasime teise projektipäeva lõunani.
 
-Programm on kirjutatud Pythonis, mille lõpp-funktsionaalsus päeva lõpuks oli see, et programm saatis välja e-maili nendest aktsiatest, mis programmi käivitamise hetkel olid hinnas kukkunud -5% või tõusnud +5%:
+Programm on kirjutatud Pythonis, mille lõpp-funktsionaalsus päeva lõpuks oli see, et programm saatis välja e-maili nendest aktsiatest, mis programmi käivitamise hetkel olid hinnas kukkunud -5% või tõusnud +5% (% saab koodis muuta meelepärasele tasandile):
 ![alt text](https://github.com/andravabar/WebCrawler2/blob/main/img_20211001_113348.jpg)
 
 Oleksime muidugi tahtnud juurde saada ka funktsionaalsust, kus programm jookseks pidevalt teatud intervalli tagant (15min), kuid seda ei jõudnud arendada. 
