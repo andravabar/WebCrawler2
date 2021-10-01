@@ -51,5 +51,6 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 
 **Liisi Kuusküll:**
 
-**Olev Kuris:**
+**Olev Kuris:** Õppisin tiimitööd, tegin esmast tutvust figma ja githubiga. Ei oleks tahtnud mingit muud ülesannet.
+
 
