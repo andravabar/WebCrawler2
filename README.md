@@ -57,6 +57,9 @@ Teisel projektipäeval alustasime ka html/css'ga, kus kasutasime Tailwind töör
  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
 
 **Rainis-Ross Tiirik:**
+- suhtlemine, meeskonnatöö
+- sain tuletada meelde kuidas figmat kasutada
+- Ma olin oma rolliga rahul
 
 **Andra Vabar:**
  - panna meeskond tööle nii, et kõik meeskonnaliikmed tunneksid, et nad on vajalikud ja kasulikud. Lisaks olin õpetajarollis, et anda esmakursuslastele võimalikult arusaadavalt ja lihtsalt sissejuhatus erinevatest kanalitest/toolidest, mida me siin koolis kasutame. Püüdsin ennast tagasi hoida, et mitte oma ideid ja nägemusi peale suruda, vaid kuulata ja usaldada oma tiimiliikmeid ja minna kaasa nende flow'ga.
