@@ -17,14 +17,11 @@ Riivo Matt / Liisi Kuusküll / Olev Kuris
 Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkvara arenduse erialal.
 
 ## Projekti idee ja eesmärk
-* Projekti eesmärk on ehitada web-crawler, mis jälgib aktsia hinna muutusi protsentides.Kui hind tõuseb või langeb,siis saadab teavituse meili peale.
-
-* Projekti kõrval-eesmärk oli saada kogemus, kuidas ühte tarkvaraprojekti teha.
+* Projekti eesmärk on ehitada web-crawler, mis jälgib aktsia hinna muutusi protsentides. Kui hind tõuseb või langeb kasutaja poolt sätestatud %-lävendi, siis programm saadab teavituse e-maili peale.
 
 ## Töökäik
-Infotahvlile info kuvamiseks valisime kaks erinevat lähenemisviisi:
-- Koodi kirjutamimsel kasutati HTML, CSS ja JavaScripti, kus kogu vajalik info on kirjutatud otse koodiridadesse sisse; plakatitena kasutati suvalisi 4 erinevat draft'e, mis olid eelnevalt alla laetud, kuid mis siiski teatud intervalli tagant infolehel vahetusid.
-- Koodi kirjutamisel kasutati lisaks HTML, CSS ja JavaScriptile ja Google Spreadsheeti, millesse ehitati juurde admin-liidese. Admin-liides on vajalik selleks, et admin-kasutaja saaks iseseisvalt vastavalt vajadusele infovälja andmeid muuta. Selle variandi puhul on plakatid lisatud Google SpreadSheedil linkidena, kus admin-kasutaja saab siis linke kustutada/lisada ja ise plakati näitamise aega reguleerida.
+
+
 
 ## Suhtluskanalid: 
 - Teams
@@ -40,6 +37,19 @@ Infotahvlile info kuvamiseks valisime kaks erinevat lähenemisviisi:
 ## Küsimused projekti kohta
  - Üks pehme oskus, mida õppisin ja endas arendasin
  - Üks tehniline oskus, mida õppisin ja endas arendasin
+ - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
 
-**Eesnimi Perenimi:**
+**Rainis-Ross Tiirik:**
+
+**Andra Vabar:**
+
+**Erki Leemet:**
+
+**Karl Jäme:**
+
+**Riivo Matt:**
+
+**Liisi Kuusküll:**
+
+**Olev Kuris:**
 
