@@ -51,6 +51,9 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 **Karl Jäme:**
 
 **Riivo Matt:**
+ -kriitiline mõtlemine, meeskonnatöö
+ -figma
+ -ei 
 
 **Liisi Kuusküll:**
  - Tutvusin figmaga. 
