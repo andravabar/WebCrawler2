@@ -73,9 +73,6 @@ Teisel projektipäeval alustasime ka html/css'ga, kus kasutasime Tailwind töör
 
 **Karl Jäme:**
 
--Tailwind kasutamist.
--Pythonis meil ärasaatmist.
--Ma jäin rahule ennda ülsandega, aga project ise oleks võinud olla paremini koostatud. 
 
 **Riivo Matt:**
  - kriitiline mõtlemine, meeskonnatöö
