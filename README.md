@@ -33,7 +33,7 @@ Infotahvlile info kuvamiseks valisime kaks erinevat lähenemisviisi:
 ## Töövahendid ja lingid: 
 - Github
 - VS Code
-- Figma [Prototüüp](https://www.figma.com/file/yeeu0HdbWkd48XS9X1wVBP/Untitled?node-id=0%3A1)
+- Figma [Prototüüp](https://www.figma.com/team_invite/redeem/LmCEfd46FPBn88VPf6xOMk)
 
 
 
