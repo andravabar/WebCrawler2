@@ -34,9 +34,11 @@ Kui protüüp "paberil" oli valmis, tegime oma tiimile erinevad suhtluskanalid (
 Pärast seda jagasime tiimisiseselt ülesanded laiali, kes mille kallal tööle saaks asuda. Paralleelselt hakkasime tööle koodi kirjutamisega ning Figmas kasutajaliidese disainimisega. Mõlema tööga jätkasime päeva lõpuni ning täiendasime teise projektipäeva lõunani.
 
 Programm on kirjutatud Pythonis, mille lõpp-funktsionaalsus päeva lõpuks oli see, et programm saatis välja e-maili nendest aktsiatest, mis programmi käivitamise hetkel olid hinnas kukkunud -5% või tõusnud +5%:
-![alt text](https://github.com/andravabar/WebCrawler2/blob/main/IMG_4676.jpg)
+![alt text](https://github.com/andravabar/WebCrawler2/blob/main/img_20211001_113348.jpg)
 
-Teisel päeval täiendasime figmat ja täitsime readme-d
+Oleksime muidugi tahtnud juurde saada ka funktsionaalsust, kus programm jookseks pidevalt teatud intervalli tagant (15min), kuid seda ei jõudnud arendada. 
+
+Teisel projektipäeval alustasime ka html/css'ga, kus kasutasime Tailwind tööriistu, kuid paraku ei jõudnud selle protsessig nii kaugele, et midagi avalikkusele näidata.
 
 
 ## Suhtluskanalid: 
@@ -46,9 +48,8 @@ Teisel päeval täiendasime figmat ja täitsime readme-d
 ## Töövahendid ja lingid: 
 - Github
 - VS Code
+- Tailwind
 - Figma [Prototüüp](https://www.figma.com/file/mnKabqqzYbmXBixxMAv6sO/Untitled?node-id=0%3A1)
-
-
 
 ## Küsimused projekti kohta
  - Üks pehme oskus, mida õppisin ja endas arendasin
