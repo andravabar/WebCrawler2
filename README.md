@@ -44,6 +44,9 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 **Andra Vabar:**
 
 **Erki Leemet:**
+ - suhtlemine
+ - web scrapemine
+ - Ma olin rahul enda ülesandega.
 
 **Karl Jäme:**
 
