@@ -21,12 +21,20 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 
 ## Töökäik
 Esimese projektipäeva esimesel tunnil tutvusime üksteisega, kuna päris mitmele oli see elu esimene projekt Ametikoolis ning inimesed veel tundmatud. Kui ülevaade inimeste oskustest ja teadmistest olemas, arutasime millisest teemast võiks töö teha. 
-Enamuse heakskiidul otsustasime teha webcrawleri, mis jälgiks Balti börsil noteeritud väärtpaberite hindasid. Esmane idee oli võtta valikusse ainult teatud aktsiad, mille hinda jälgida ning kui soovitud aktsia hind satub kasutajale sobivale tasemele (kas aktsia müümiseks või ostmiseks), siis programm saadaks välja vastavasisulise e-maili. Üsna peagi saime aru, et otstarbekam oleks jälgida mitte üksikute aktsiate hinna kõikumisi, vaid hoopis terve börsi lõikes hinna muutust protsentides.
+
+Enamuse heakskiidul otsustasime teha webcrawleri, mis jälgiks Balti börsil noteeritud väärtpaberite hindasid. Esmane idee oli võtta valikusse ainult teatud aktsiad, mille hinda jälgida ning kui soovitud aktsia hind satub kasutajale sobivale tasemele (kas aktsia müümiseks või ostmiseks), siis programm saadaks välja vastavasisulise e-maili. Üsna peagi saime aru, et otstarbekam oleks jälgida mitte üksikute aktsiate hinna kõikumisi, vaid hoopis terve börsi lõikes hinna muutust protsentides, et saada teavitusi kogu Balti börsi anomaaliatest.
+Ideaalmaailmas oleks tahtnud ehitada ka kasutajaliidese, kus aktiveerida/deaktiveerida programm, lisaks kus kasutaja saaks muuta %-väärtusi.
+
 Esimese prototüübi joonistasime üles interaktiivsel tahvlil, kuhu püüdsime teha täisversiooni kasutajaliidesest.
 ![alt text](https://github.com/andravabar/WebCrawler2/blob/main/IMG_4675.jpg)
-![alt text](https://github.com/andravabar/WebCrawler2/blob/main/IMG_4675.jpg)
+![alt text](https://github.com/andravabar/WebCrawler2/blob/main/IMG_4676.jpg)
 
-Prototüübi valmimisel me tegime enda grupile suhtlemiskanalid(slack,teams) ja github-i.Githubis tegime projekti ja sinna lisasime issuesid.Siis hakkasime pihta figmaga ja koodirkirjutamisega.Tegime endale figmas uue teami ja projekti.Seejärel kutsusime need,kes koodi ei kirjutanud figmat tegema.
+Kui protüüp "paberil" oli valmis, tegime oma tiimile erinevad suhtluskanalid (Slackis, Teamsis), kus jagada linke, pilte ja ekraani. Githubis sai tehtud projekt, kuhu hakkasime genereerima teemaga seotud issues'd. 
+
+Pärast seda jagasime tiimisiseselt ülesanded laiali, kes mille kallal tööle saaks asuda. Paralleelselt hakkasime tööle koodi kirjutamisega ning Figmas kasutajaliidese disainimisega. Mõlema tööga jätkasime päeva lõpuni ning täiendasime teise projektipäeva lõunani.
+
+Programm on kirjutatud Pythonis, mille lõpp-funktsionaalsus päeva lõpuks oli see, et programm saatis välja e-maili nendest aktsiatest, mis programmi käivitamise hetkel olid hinnas kukkunud -5% või tõusnud +5%:
+![alt text](https://github.com/andravabar/WebCrawler2/blob/main/IMG_4676.jpg)
 
 Teisel päeval täiendasime figmat ja täitsime readme-d
 
