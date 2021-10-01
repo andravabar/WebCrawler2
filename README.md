@@ -17,14 +17,14 @@ Riivo Matt / Liisi Kuusküll / Olev Kuris
 Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkvara arenduse erialal.
 
 ## Projekti idee ja eesmärk
-* Projekti eesmärk on ehitada web-crawler, mis jälgib aktsia hinna muutusi protsentides.Kui hind tõuseb või langeb,siis saadab teavituse meili peale.
-
-* Projekti kõrval-eesmärk oli saada kogemus, kuidas ühte tarkvaraprojekti teha.
+* Projekti eesmärk on ehitada web-crawler, mis jälgib aktsia hinna muutusi protsentides. Kui hind tõuseb või langeb kasutaja poolt sätestatud %-lävendi, siis programm saadab teavituse e-maili peale.
 
 ## Töökäik
-Infotahvlile info kuvamiseks valisime kaks erinevat lähenemisviisi:
-- Koodi kirjutamimsel kasutati HTML, CSS ja JavaScripti, kus kogu vajalik info on kirjutatud otse koodiridadesse sisse; plakatitena kasutati suvalisi 4 erinevat draft'e, mis olid eelnevalt alla laetud, kuid mis siiski teatud intervalli tagant infolehel vahetusid.
-- Koodi kirjutamisel kasutati lisaks HTML, CSS ja JavaScriptile ja Google Spreadsheeti, millesse ehitati juurde admin-liidese. Admin-liides on vajalik selleks, et admin-kasutaja saaks iseseisvalt vastavalt vajadusele infovälja andmeid muuta. Selle variandi puhul on plakatid lisatud Google SpreadSheedil linkidena, kus admin-kasutaja saab siis linke kustutada/lisada ja ise plakati näitamise aega reguleerida.
+* Esimesel projektipäevl  tutvusime üksteisega.Pärast seda me arutasime millisest teemast võiks töö teha.Lõpuks otsustasime teha webcrawleri,mis jälgiks aktsiahindu ja et see saadaks alerti meili peale sellel juhul kui hind muutub.Algul oli plaan järgida hinnamuutust eurodes aga päeva lõpuks nõustusime,et jälgiksime hinnamuutust protsentides.
+Kui meil oli suund olemas me hakkasime tegema prototüüpi ja see sai tehtud tahvli peal.Prototüübi valmimisel me tegime enda grupile suhtlemiskanalid(slack,teams) ja github-i.Githubis tegime projekti ja sinna lisasime issuesid.Siis hakkasime pihta figmaga ja koodirkirjutamisega.Tegime endale figmas uue teami ja projekti.Seejärel kutsusime need,kes koodi ei kirjutanud figmat tegema.
+
+Teisel päeval täiendasime figmat ja täitsime readme-d
+
 
 ## Suhtluskanalid: 
 - Teams
@@ -33,13 +33,42 @@ Infotahvlile info kuvamiseks valisime kaks erinevat lähenemisviisi:
 ## Töövahendid ja lingid: 
 - Github
 - VS Code
-- Figma [Prototüüp](https://www.figma.com/file/yeeu0HdbWkd48XS9X1wVBP/Untitled?node-id=0%3A1)
+- Figma [Prototüüp](https://www.figma.com/file/mnKabqqzYbmXBixxMAv6sO/Untitled?node-id=0%3A1)
 
 
 
 ## Küsimused projekti kohta
  - Üks pehme oskus, mida õppisin ja endas arendasin
  - Üks tehniline oskus, mida õppisin ja endas arendasin
+ - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
 
-**Eesnimi Perenimi:**
+**Rainis-Ross Tiirik:**
+
+**Andra Vabar:**
+ - panna meeskond tööle nii, et kõik meeskonnaliikmed tunneksid, et nad on vajalikud ja kasulikud. Lisaks olin õpetajarollis, et anda esmakursuslastele võimalikult arusaadavalt ja lihtsalt sissejuhatus erinevatest kanalitest/toolidest, mida me siin koolis kasutame. Püüdsin ennast tagasi hoida, et mitte oma ideid ja nägemusi peale suruda, vaid kuulata ja usaldada oma tiimiliikmeid ja minna kaasa nende flow'ga.
+ - paarikoodimine, sh clone/push/pull/stash meeldetuletus
+ - suuers pildis ma ei leia, et oleksin midagi muud saanud tiimi heaks teha, aga oleksin tahtnud rohkem tegeleda koodimisega, kui administratiivsete argimuredega.
+
+**Erki Leemet:**
+ - suhtlemine, tiimitöö
+ - web scrapemine
+ - Ma olin rahul enda ülesandega.
+
+**Karl Jäme:**
+
+**Riivo Matt:**
+ - kriitiline mõtlemine, meeskonnatöö
+ - figma
+ - ei 
+
+**Liisi Kuusküll:**
+ - Tutvusin figmaga. 
+ - Tehnilisi oskusi veel ei ole. Tiimi kaaslased jagasid enda ekraani, et näidata ka teistele, mida nad teevad.
+ - Jäin enda ülesandega rahule.
+
+**Olev Kuris:** 
+ - Õppisin tiimitööd.
+ - Tegin esmast tutvust figma ja githubiga. 
+ - Ei oleks tahtnud mingit muud ülesannet.
+
 
