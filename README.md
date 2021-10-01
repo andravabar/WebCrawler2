@@ -50,7 +50,13 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 **Riivo Matt:**
 
 **Liisi Kuusküll:**
+ - Tutvusin figmaga. 
+ - Tehnilisi oskusi veel ei ole. Tiimi kaaslased jagasid enda ekraani, et näidata ka teistele, mida nad teevad.
+ - Jäin enda ülesandega rahule.
 
-**Olev Kuris:** Õppisin tiimitööd, tegin esmast tutvust figma ja githubiga. Ei oleks tahtnud mingit muud ülesannet.
+**Olev Kuris:** 
+ - Õppisin tiimitööd.
+ - Tegin esmast tutvust figma ja githubiga. 
+ - Ei oleks tahtnud mingit muud ülesannet.
 
 
