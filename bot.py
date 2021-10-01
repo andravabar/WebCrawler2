@@ -17,7 +17,11 @@ thisDict= {}
 
 def getStockChange(changeList):
     for value in changeList:
-        return value.text.strip()
+        if value.text.strip() is None:
+            return "1"
+        else:
+            return value.text.strip()
+
 
 for elements in results:
     # print(elements)
@@ -36,4 +40,4 @@ for elements in results:
             "negative" : getStockChange(negativeChangeList)
         }})
 
-print(thisDict)
+# print(thisDict)
