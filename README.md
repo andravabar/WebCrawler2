@@ -20,8 +20,12 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 * Projekti eesmärk on ehitada web-crawler, mis jälgib aktsia hinna muutusi protsentides. Kui hind tõuseb või langeb kasutaja poolt sätestatud %-lävendi, siis programm saadab teavituse e-maili peale.
 
 ## Töökäik
-* Esimesel projektipäevl  tutvusime üksteisega.Pärast seda me arutasime millisest teemast võiks töö teha.Lõpuks otsustasime teha webcrawleri,mis jälgiks aktsiahindu ja et see saadaks alerti meili peale sellel juhul kui hind muutub.Algul oli plaan järgida hinnamuutust eurodes aga päeva lõpuks nõustusime,et jälgiksime hinnamuutust protsentides.
-Kui meil oli suund olemas me hakkasime tegema prototüüpi ja see sai tehtud tahvli peal.Prototüübi valmimisel me tegime enda grupile suhtlemiskanalid(slack,teams) ja github-i.Githubis tegime projekti ja sinna lisasime issuesid.Siis hakkasime pihta figmaga ja koodirkirjutamisega.Tegime endale figmas uue teami ja projekti.Seejärel kutsusime need,kes koodi ei kirjutanud figmat tegema.
+Esimese projektipäeva esimesel tunnil tutvusime üksteisega, kuna päris mitmele oli see elu esimene projekt Ametikoolis ning inimesed veel tundmatud. Kui ülevaade inimeste oskustest ja teadmistest olemas, arutasime millisest teemast võiks töö teha. 
+Enamuse heakskiidul otsustasime teha webcrawleri, mis jälgiks Balti börsil noteeritud väärtpaberite hindasid. Esmane idee oli võtta valikusse ainult teatud aktsiad, mille hinda jälgida ning kui soovitud aktsia hind satub kasutajale sobivale tasemele (kas aktsia müümiseks või ostmiseks), siis programm saadaks välja vastavasisulise e-maili. Üsna peagi saime aru, et otstarbekam oleks jälgida mitte üksikute aktsiate hinna kõikumisi, vaid hoopis terve börsi lõikes hinna muutust protsentides.
+Esimese prototüübi joonistasime üles interaktiivsel tahvlil, kuhu püüdsime teha täisversiooni kasutajaliidesest.
+![alt text](http://url/to/img.png)
+
+Prototüübi valmimisel me tegime enda grupile suhtlemiskanalid(slack,teams) ja github-i.Githubis tegime projekti ja sinna lisasime issuesid.Siis hakkasime pihta figmaga ja koodirkirjutamisega.Tegime endale figmas uue teami ja projekti.Seejärel kutsusime need,kes koodi ei kirjutanud figmat tegema.
 
 Teisel päeval täiendasime figmat ja täitsime readme-d
 
